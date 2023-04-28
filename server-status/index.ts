@@ -1,2 +1,2 @@
-let variable: string = 'a'
-console.log(variable)
+let helloWorld: string = 'Hola mundo'
+console.log(helloWorld)
